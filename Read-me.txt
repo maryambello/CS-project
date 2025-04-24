@@ -1,0 +1,6 @@
+TO RUN THIS APPLICATION, GO TO THE FOLLOWING
+ DIRECTORIES.
+
+U14CS1038\WindowsApplication2\bin\Realease
+
+Double click or select on WindowsApplication2.exe to run the app
